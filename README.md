@@ -33,10 +33,11 @@ A análise indicou que a indústria americana apresenta retornos decrescentes (c
 - [ ] Adicionar cenário Brasil-China-Argentina
 
 --- 
-- [] Adicionar fontes das séries históricas.
-- [] Adicionar refêrencias bibliográficas dos artigos -> Pasta de trabalho 
+- [ ]  Adicionar fontes das séries históricas.
+- [ ] Adicionar refêrencias bibliográficas dos artigos -> Pasta de trabalho 
 
 ## Referências bibliográficas 
 
-
-
+***
+--- 
+Trabalho desenvolvido sob perspectiva das aulas de macroeconomia de Temidayo James.

@@ -36,8 +36,11 @@ A análise indicou que a indústria americana apresenta retornos decrescentes (c
 ## Referências bibliográficas 
 
 THIRLWALL, Anthony Philip. A natureza do crescimento econômico: um referencial alternativo para compreender o desempenho das nações. Tradução de Vera Ribeiro. Revisão técnica de Marcelo Piancastelli de Siqueira. Brasília: IPEA, 2005. 112 p.
+
 INSTITUTO DE PESQUISA ECONÔMICA APLICADA (IPEA). O tarifaço de Trump: organizando fatos. Brasília: IPEA, 2018. (Texto para Discussão).
-RAIHER P, AUGUSTA; HIGACHI Y, Hermes; CARMO, S. S, ALEX; Crescimento da economia brasileira restrito pelo BP: um teste da lei de Thirlwall por técnicas de painel, 2000-2008. Economia & Tecnologia - Ano 07, Vol. 26 - Julho/Setembro de 2011
+
+RAIHER P, AUGUSTA; HIGACHI Y, Hermes; CARMO, S. S, ALEX; Crescimento da economia brasileira restrito pelo BP: um teste da lei de Thirlwall por técnicas de painel, 2000-2008. Economia & Tecnologia - Ano 07, Vol. 26 - Julho/Setembro de 2011.
+
 CARVALHO, V. R.; LIMA, G. T. Macrodinâmica do produto e da renda sob restrição externa: a experiência brasileira no período 9 0-2004. Economia Aplicada, v. 2, n. , p. 55-77, 2008.
 
 --- 

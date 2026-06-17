@@ -1,4 +1,3 @@
-# thirlwall-brazil-growth
 # Análise de indicadores da Restrição Externa Brasileira 
 
 > Aplicação da Lei de Thirlwall para estimar o impacto do crescimento dos EUA no PIB brasileiro de longo prazo.
